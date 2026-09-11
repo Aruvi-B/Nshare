@@ -7,7 +7,6 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Repository Size](https://img.shields.io/github/repo-size/Aruvi-B/Nshare)](https://github.com/Aruvi-B/Nshare)
-  [![Last Commit](https://img.shields.io/github/last-commit/Aruvi-B/Nshare)](https://github.com/Aruvi-B/Nshare/commits/main)
 
 </div>
 
@@ -20,8 +19,6 @@
 - [Getting Started](#getting-started)
 - [Application Screens](#application-screens)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
