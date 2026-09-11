@@ -61,44 +61,17 @@ The project combines modern connectivity solutions with a user-friendly design t
 
 ---
 
-## 🖼️ Application Screens
+🖼️ Application Screens
 
-### Login Screen
-<img src="Login.jpg" alt="Login Screen" width="300">
+<div align="center">
 
-Secure user authentication system for account access.
+Application Interface
 
-### Main Menu
-<img src="Menu.jpg" alt="Menu Screen" width="300">
+<table> <tr> <td align="center"> <img src="Login.jpg" alt="Login Screen" width="200"> <br> <b>Login</b> </td> <td align="center"> <img src="Menu.jpg" alt="Main Menu" width="200"> <br> <b>Main Menu</b> </td> <td align="center"> <img src="First%20Page.jpg" alt="First Page" width="200"> <br> <b>First Page</b> </td> <td align="center"> <img src="Schedule%20Page.jpg" alt="Schedule Page" width="200"> <br> <b>Schedule</b> </td> </tr>
 
-Central hub for accessing all application features.
+<tr> <td align="center"> <img src="Schedule%20Downloading.jpg" alt="Schedule Downloading" width="200"> <br> <b>Scheduled Download</b> </td> <td align="center"> <img src="Scan%20QR.jpg" alt="Scan QR" width="200"> <br> <b>Scan QR</b> </td> <td align="center"> <img src="Feedback%20Page.jpg" alt="Feedback Page" width="200"> <br> <b>Feedback</b> </td> <td></td> </tr> </table>
 
-### First Page
-<img src="First%20Page.jpg" alt="First Page" width="300">
-
-Welcome and introductory interface for new users.
-
-### Schedule Page
-<img src="Schedule%20Page.jpg" alt="Schedule Page" width="300">
-
-Manage and view scheduled downloads and sharing operations.
-
-### Schedule Downloading
-<img src="Schedule%20Downloading.jpg" alt="Schedule Downloading" width="300">
-
-Configure download schedules for optimal timing.
-
-### Scan QR
-<img src="Scan%20QR.jpg" alt="Scan QR" width="300">
-
-Quick connection setup via QR code scanning.
-
-### Feedback Page
-<img src="Feedback%20Page.jpg" alt="Feedback Page" width="300">
-
-Submit feedback and suggestions to improve the application.
-
----
+</div>
 
 ## 📁 Project Structure
 
