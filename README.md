@@ -54,17 +54,6 @@ The project combines modern connectivity solutions with a user-friendly design t
 - A device with the application installed
 - Internet connectivity for sharing features
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aruvi-B/Nshare.git
-   cd Nshare
-   ```
-
-2. Refer to the [NSHARE ABSTRACT.pdf](NSHARE%20ABSTRACT.pdf) for detailed technical documentation
-3. Check the presentation files for setup and implementation details
-
 ### Quick Start
 
 1. **Launch the Application** - Open NShare on your device
@@ -130,22 +119,9 @@ Nshare/
 ├── Schedule Page.jpg             # Schedule management screen
 ├── Schedule Downloading.jpg       # Download scheduling
 ├── Scan QR.jpg                   # QR code scanning
+├── Nshare.apk                   # Appication File
 └── Feedback Page.jpg             # Feedback interface
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute to NShare:
-
-1. **Fork** the repository
-2. **Create** a new branch (`git checkout -b feature/your-feature`)
-3. **Commit** your changes (`git commit -m 'Add your feature'`)
-4. **Push** to the branch (`git push origin feature/your-feature`)
-5. **Open** a Pull Request
-
-Please ensure your contributions align with the project's goals and maintain code quality standards.
 
 ---
 
@@ -188,11 +164,5 @@ For questions, support, or collaboration opportunities:
 - MIT License for providing an open framework for development
 
 ---
-
-<div align="center">
-  
-Made with ❤️ by Aruvi-B
-
-[![GitHub followers](https://img.shields.io/github/followers/Aruvi-B?style=social)](https://github.com/Aruvi-B)
 
 </div>
